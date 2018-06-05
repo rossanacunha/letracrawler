@@ -1,0 +1,3 @@
+import diabetes
+
+diabetes.main()
